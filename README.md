@@ -17,6 +17,7 @@
 </div>
 
 ## Contato 📧                             
+Mauricio.Santos.110@ufrn.edu.br 
 
 ## Certificados ☑️
 [![Certificados](https://img.shields.io/badge/Certificados-007BFF?style=for-the-badge&logo=c&logoColor=white)](https://cursos.alura.com.br/user/mauricio-santos-110/fullCertificate/52f6fbf11496e4aa915a7f86903133c0)
