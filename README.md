@@ -8,7 +8,9 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.pfpfinder.com/uploads/Shrek-1702738417486.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://cdn.pfpfinder.com/uploads/Shuba-duck-1702738417533.png"  />
 
 ###
 
